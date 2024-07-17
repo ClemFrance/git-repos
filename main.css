@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(1, 95, 95);
+    background-color: whitesmoke;
 }
 
 .parent{
-    background-color: aquamarine;
+    background-color: lightblue;
     width: 1000px;
     height: 700px;
     margin: 120px;
