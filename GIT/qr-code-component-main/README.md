@@ -7,15 +7,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   This a QR Project designed using HTML and CSS 
   
 ### Screenshot
-![alt text](<FireShot Capture 001 - QR Code - -1.png>)
-![alt text](<FireShot Capture 003 - QR Code - -1.png>)
+![](<images/FireShot Capture 004 - QR Code - .png>)
+![](<images/FireShot Capture 005 - QR Code - .png>)
+
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here] file:///C:/Users/HP/Desktop/New%20Development/Image/Project/QR.html
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here] file:///C:/Users/HP/Documents/GitHub/git-repos/index.html
+- Live Site URL: https://clemfrance.github.io/git-repos/
 
 ## My process
   First I created a class name called parents which Nest everyother element in the body tag,then inside it contains a div with class name 'container'which holds only the image and the text div
@@ -65,7 +66,7 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - file:///C:/Users/HP/Desktop/New%20Development/Image/Project/QR.html
+- Website - file:///C:/Users/HP/Documents/GitHub/git-repos/index.html
 - Frontend Mentor - [@clement00770](https://www.frontendmentor.io/profile/Clement)
 - Twitter - [@Clement14328229](https://www.twitter.com/Clement)
 
